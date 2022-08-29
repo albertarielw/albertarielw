@@ -20,7 +20,7 @@ I am a Year 2 student in NUS studying Computer Science and Mathematics - aspirin
 
 To learn more about me please visit my personal website [albertariel.github.io](https://albertarielw.github.io/resume/) or read my resume [here](https://github.com/albertarielw/albertarielw/blob/main/Resume%20Albert%20Ariel%20Widiaatmaja%20(29%20Aug%202022).pdf) :)
 
-# Project Repos Highlights
+# Project Repo Highlights
 
 - [My Personal Website](https://github.com/albertarielw/resume) (Website Development)
 - [FoodSense](https://github.com/albertarielw/FoodSense) (Website Development) 
@@ -28,8 +28,14 @@ To learn more about me please visit my personal website [albertariel.github.io](
 - [Robotics](https://github.com/albertarielw/robotics) (Robotics Competition)
 - Bluetooth Low Energy Manager (Andriod Development) - private as it is part of my last summer internship :)
 
-# Learning Repos Highlights
+# Learning Repo Highlights: Mini Projects to Improve My Development Skills
 
-- [Frontend Development](https://github.com/albertarielw/Learning-Frontend) ie ReactJS
-- [Backend Development](https://github.com/albertarielw/Learning-Backend) ie NodeJS, ExpressJS, MongoDB, Firebase
-- [Android Development](https://github.com/albertarielw/Learning-Android-Development) ie Kotlin
+- [Frontend Development](https://github.com/albertarielw/Learning-Frontend) i.e. ReactJS
+
+1. 
+2. 
+
+- [Backend Development](https://github.com/albertarielw/Learning-Backend) i.e. NodeJS, ExpressJS, MongoDB, Firebase
+- [Android Development](https://github.com/albertarielw/Learning-Android-Development) i.e. Kotlin
+
+# Mini Project to Imporve My Development Skills
