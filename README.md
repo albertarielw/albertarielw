@@ -30,6 +30,10 @@ To learn more about me please visit my personal website [albertariel.github.io](
 
 # Learning Repo Highlights
 
-- [Frontend Development] (https://github.com/albertarielw/Learning-Frontend) ie ReactJS
-- [Backend Development] (https://github.com/albertarielw/Learning-Backend) ie NodeJS, ExpressJS, MongoDB, Firebase
-- [Android Development] (https://github.com/albertarielw/Learning-Android-Development) ie Kotlin
+- [Frontend Development](https://github.com/albertarielw/Learning-Frontend) ie ReactJS
+- [Backend Development](https://github.com/albertarielw/Learning-Backend) ie NodeJS, ExpressJS, MongoDB, Firebase
+- [Android Development](https://github.com/albertarielw/Learning-Android-Development) ie Kotlin
+
+# Mini-Project Repo to Improve My Development Skills
+
+
