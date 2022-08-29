@@ -26,7 +26,7 @@ To learn more about me please visit my personal website [albertariel.github.io](
 - [FoodSense](https://github.com/albertarielw/FoodSense) (Website Development) 
 - [Drifting Speckle Physics Research](https://github.com/albertarielw/Drifting-Speckle) (C++ Simulation)
 - [Robotics](https://github.com/albertarielw/robotics) (Robotics Competition)
-- Bluetooth Low Energy Manager (Andriod Development) - private as it is part of my last summer internship :)
+- Bluetooth Low Energy Manager (Andriod Development) - private as it is part of my last summer internship at ConcreteAI:)
 
 # Learning Repo Highlights
 
