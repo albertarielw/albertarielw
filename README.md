@@ -20,4 +20,10 @@ I am a Year 2 student in NUS studying Computer Science and Mathematics - aspirin
 
 To learn more about me please visit my personal website [albertariel.github.io](https://albertarielw.github.io/resume/) or read my resume [here](https://github.com/albertarielw/albertarielw/blob/main/Resume%20Albert%20Ariel%20Widiaatmaja%20(29%20Aug%202022).pdf) :)
 
-# Project Highlights
+# Repo Highlights
+
+- My Personal Website (Website Development)
+
+
+- [FoodSense](https://github.com/albertarielw/FoodSense) (Website Development) 
+- 
