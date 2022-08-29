@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 
 
 # Hellooo... Albert here! 👋👋👋
+
+I am a Year 2 student in NUS studying Computer Science and Mathematics - aspiring to work in the software engineering industry!
+
+To learn more about me please visit my personal website [albertariel.github.io](https://albertarielw.github.io/resume/) or read my resume [here](https://drive.google.com/drive/folders/1tH5Y-Jt4_2OQ8aZv3gsfqfN-S3LF2CoB)
