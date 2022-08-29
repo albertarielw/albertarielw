@@ -22,17 +22,17 @@ To learn more about me please visit my personal website [albertariel.github.io](
 
 # Project Repo Highlights
 
-- [My Personal Website](https://github.com/albertarielw/resume) (Website Development)
-- [FoodSense](https://github.com/albertarielw/FoodSense) (Website Development) 
-- [Drifting Speckle Physics Research](https://github.com/albertarielw/Drifting-Speckle) (C++ Simulation)
-- [Robotics](https://github.com/albertarielw/robotics) (Robotics Competition)
-- Bluetooth Low Energy Manager (Andriod Development) - private as it is part of my last summer internship at ConcreteAI:)
+1. [My Personal Website](https://github.com/albertarielw/resume) (Website Development)
+2. [FoodSense](https://github.com/albertarielw/FoodSense) (Website Development) 
+3. [Drifting Speckle Physics Research](https://github.com/albertarielw/Drifting-Speckle) (C++ Simulation)
+4. [Robotics](https://github.com/albertarielw/robotics) (Robotics Competition)
+5. Bluetooth Low Energy Manager (Andriod Development) - private as it is part of my internship at ConcreteAI last summer:)
 
 # Learning Repo Highlights
 
-- [Frontend Development](https://github.com/albertarielw/Learning-Frontend) i.e. ReactJS
-- [Backend Development](https://github.com/albertarielw/Learning-Backend) i.e. NodeJS, ExpressJS, MongoDB, Firebase
-- [Android Development](https://github.com/albertarielw/Learning-Android-Development) i.e. Kotlin
+1. [Frontend Development](https://github.com/albertarielw/Learning-Frontend) i.e. ReactJS
+2. [Backend Development](https://github.com/albertarielw/Learning-Backend) i.e. NodeJS, ExpressJS, MongoDB, Firebase
+3. [Android Development](https://github.com/albertarielw/Learning-Android-Development) i.e. Kotlin
 
 # Mini Projects to Improve My Software Development Skills
 
