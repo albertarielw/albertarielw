@@ -34,7 +34,7 @@ To learn more about me please visit my personal website [albertariel.github.io](
 - [Backend Development](https://github.com/albertarielw/Learning-Backend) i.e. NodeJS, ExpressJS, MongoDB, Firebase
 - [Android Development](https://github.com/albertarielw/Learning-Android-Development) i.e. Kotlin
 
-# Mini Projects to Improve My Development Skills
+# Mini Projects to Improve My Software Development Skills
 
 Here is a summary of the mini projects I did in my learning repos
 
