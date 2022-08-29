@@ -20,7 +20,7 @@ I am a Year 2 student in NUS studying Computer Science and Mathematics - aspirin
 
 To learn more about me please visit my personal website [albertariel.github.io](https://albertarielw.github.io/resume/) or read my resume [here](https://github.com/albertarielw/albertarielw/blob/main/Resume%20Albert%20Ariel%20Widiaatmaja%20(29%20Aug%202022).pdf) :)
 
-# Project Repo Highlights
+# Project Repos Highlights
 
 - [My Personal Website](https://github.com/albertarielw/resume) (Website Development)
 - [FoodSense](https://github.com/albertarielw/FoodSense) (Website Development) 
@@ -28,12 +28,8 @@ To learn more about me please visit my personal website [albertariel.github.io](
 - [Robotics](https://github.com/albertarielw/robotics) (Robotics Competition)
 - Bluetooth Low Energy Manager (Andriod Development) - private as it is part of my last summer internship :)
 
-# Learning Repo Highlights
+# Learning Repos Highlights
 
 - [Frontend Development](https://github.com/albertarielw/Learning-Frontend) ie ReactJS
 - [Backend Development](https://github.com/albertarielw/Learning-Backend) ie NodeJS, ExpressJS, MongoDB, Firebase
 - [Android Development](https://github.com/albertarielw/Learning-Android-Development) ie Kotlin
-
-# Mini-Project Repo to Improve My Development Skills
-
-
