@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a Year 2 student in NUS studying Computer Science and Mathematics - aspiring to work in the software engineering industry!
 
-To learn more about me please visit my personal website [albertariel.github.io](https://albertarielw.github.io/resume/) or read my resume [here](https://github.com/albertarielw/albertarielw/blob/main/Resume%20Albert%20Ariel%20Widiaatmaja%20(29%20Aug%202022).pdf) :)
+To learn more about me please visit my personal website [albertariel.github.io](https://albertarielw.github.io/resume/) or read my resume [here](https://github.com/albertarielw/albertarielw/blob/main/Resume%20Albert%20Ariel%20Widiaatmaja%20(30%20Aug%202022).pdf) :)
 
 # Project Repo Highlights
 
