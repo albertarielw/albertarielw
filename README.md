@@ -28,17 +28,17 @@ To learn more about me please visit my personal website [albertariel.github.io](
 4. [Robotics](https://github.com/albertarielw/robotics) (Robotics Competition)
 5. Bluetooth Low Energy Manager (Android Development) - private as it is part of my internship at ConcreteAI last summer :)
 
-# Python Repo Highlights
-
-1. [Predictive Analysis using Least Square Approximation based on QR Decomposition Algorithm](https://github.com/albertarielw/qr-decomposition-prediction)
-2. [Grab 2022 Data Science Competition Submission](https://github.com/albertarielw/grab-data-competition-2022)
-3. Concrete Temperature Development Analysis using PyTorch - also private as it is part of my internship at ConcreteAI last summer :)
-
 # Learning Repo Highlights
 
 1. [Frontend Development](https://github.com/albertarielw/Learning-Frontend) i.e. ReactJS
 2. [Backend Development](https://github.com/albertarielw/Learning-Backend) i.e. NodeJS, ExpressJS, MongoDB, Firebase
 3. [Android Development](https://github.com/albertarielw/Learning-Android-Development) i.e. Kotlin
+
+# Python Repo Highlights
+
+1. [Predictive Analysis using Least Square Approximation based on QR Decomposition Algorithm](https://github.com/albertarielw/qr-decomposition-prediction)
+2. [Grab 2022 Data Science Competition Submission](https://github.com/albertarielw/grab-data-competition-2022)
+3. Concrete Temperature Development Analysis using PyTorch - also private as it is part of my internship at ConcreteAI last summer :)
 
 # Mini Projects to Improve My Software Development Skills
 
