@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 
 # Hellooo... Albert here! 👋👋👋
 
-I am an incoming Year 3 student in NUS studying Computer Science and Mathematics - aspiring to work in the software engineering industry!
-
-To learn more about me please visit my personal website [albertariel.github.io](https://albertarielw.github.io/new-resume/) :)
+I am a Year 3 student in NUS studying Computer Science and Quantitative Finance - aspiring to work in the software engineering industry!
