@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 
 
 # Hellooo... Albert here! 👋👋👋
-
-I am a Year 3 student in NUS studying Computer Science and Quantitative Finance - aspiring to work in the software engineering industry!
